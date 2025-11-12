@@ -1,4 +1,4 @@
 
-# /apps/sample-api/requirements.txt
+# /requirements.txt
 Flask
 
